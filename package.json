@@ -15,7 +15,9 @@
     "@mui/material": "^5.10.1",
     "next": "15.3.5",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "sass": "^1.49.9",
+    "sass-loader": "^12.6.0"
   },
   "devDependencies": {
     "@types/node": "^20",
